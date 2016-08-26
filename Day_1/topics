@@ -1,0 +1,4 @@
+Recent years have seen a rapid development in mass spectrometry, in particular multiplexed quantitative mass spectrometry has taken a huge leap forward. This has enabled development of new technologies for unbiased detection of protein ligand/drug interactions which is one of the major challenges in drug discovery. 
+General principles of multiplexed mass spectrometry will be explained. A pragmatic description of strengths and weaknesses of the methodology will be presented.
+A novel technology, thermal proteome profiling, will be introduced that utilizes multiplexed mass spectrometry for detecting protein drug interactions in living cells. 
+A practical session will take the students through the analysis and interpretation of quantitative mass spectrometry data stemming from the thermal proteome profiling experiment with an R package.
